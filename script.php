@@ -10,5 +10,5 @@ foreach (glob ('ext/php_*.dll') as $ext)
 	if (!extension_loaded (substr (basename ($ext), 4, -4)))
 		load_extension ($ext);
 
-if (file_exists ($app = '../../app/start.php'))
+if (file_exists ($app = dirname (__DIR__, 3) .'/app.php'))
 	require $app;

@@ -12,5 +12,8 @@
             "email": "zzzzzzya2017@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "empathy-run": "empathy.exe script.php"
+    }
 }
