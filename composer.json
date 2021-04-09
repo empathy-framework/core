@@ -1,7 +1,6 @@
 {
     "name": "empathy-php/core",
     "description": "Empathy Framework core",
-    "type": "project",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
