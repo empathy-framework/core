@@ -53,4 +53,4 @@ VoidCore::callMethod ($selector, $name[, ...$args]) | $selector - ID объек�
 
 и другие
 
-Авторы: [Подвирный Никита](https://vk.com/technomindlp) и [Кусов Андрей](https://vk.com/postmessagea)
+Автор: [Подвирный Никита](https://vk.com/technomindlp)
